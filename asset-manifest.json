@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Anshuman1505/roboapp1/static/css/main.3f11f270.chunk.css",
+    "main.js": "/Anshuman1505/roboapp1/static/js/main.33691081.chunk.js",
+    "main.js.map": "/Anshuman1505/roboapp1/static/js/main.33691081.chunk.js.map",
+    "runtime-main.js": "/Anshuman1505/roboapp1/static/js/runtime-main.102ddc40.js",
+    "runtime-main.js.map": "/Anshuman1505/roboapp1/static/js/runtime-main.102ddc40.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Anshuman1505/roboapp1/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/Anshuman1505/roboapp1/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/Anshuman1505/roboapp1/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/Anshuman1505/roboapp1/index.html",
+    "precache-manifest.62834ccd26778649f45659016b33d176.js": "/Anshuman1505/roboapp1/precache-manifest.62834ccd26778649f45659016b33d176.js",
+    "service-worker.js": "/Anshuman1505/roboapp1/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Anshuman1505/roboapp1/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.3f11f270.chunk.css.map": "/Anshuman1505/roboapp1/static/css/main.3f11f270.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/Anshuman1505/roboapp1/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Anshuman1505/roboapp1/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.102ddc40.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js",
+    "static/css/main.3f11f270.chunk.css",
+    "static/js/main.33691081.chunk.js"
+  ]
+}
